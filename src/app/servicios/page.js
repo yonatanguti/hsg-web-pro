@@ -9,7 +9,7 @@ export default function ServiciosPage() {
             Nuestros <span className="text-hsg-red not-italic">Servicios</span>
           </h1>
           <p className="mt-6 text-gray-600 text-xl max-w-3xl leading-relaxed">
-            Proveemos equipos de PRUEBA certificados para la ejecución de proyectos 
+            Proveemos equipos de trabajo certificados para la ejecución de proyectos 
             habitacionales y comerciales de alta exigencia técnica.
           </p>
         </div>
