@@ -6,10 +6,10 @@ export default function ServiciosPage() {
         <div className="max-w-7xl mx-auto">
           <span className="text-hsg-red font-bold tracking-widest uppercase text-sm">Nuestra Especialidad</span>
           <h1 className="text-5xl md:text-7xl font-black text-gray-900 mt-4 italic uppercase leading-none">
-            Nuestros Buenos <span className="text-hsg-red not-italic">Servicios</span>
+            Nuestros <span className="text-hsg-red not-italic">Servicios</span>
           </h1>
           <p className="mt-6 text-gray-600 text-xl max-w-3xl leading-relaxed">
-            Proveemos equipos de trabajo certificados para la ejecución de proyectos 
+            Proveemos equipos de PRUEBA certificados para la ejecución de proyectos 
             habitacionales y comerciales de alta exigencia técnica.
           </p>
         </div>
