@@ -42,7 +42,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="mt-8 flex flex-col md:flex-row justify-between items-center text-gray-500 text-xs tracking-widest uppercase">
           <p>© 2025 HSG Sociedad Constructora Ltda.</p>
-          <p className="mt-4 md:mt-0">Desarrollado con Excelencia Técnica</p>
+          <p className="mt-4 md:mt-0">Desarrollado por Yonatanastudillo@gmail.com</p>
         </div>
       </div>
     </footer>
