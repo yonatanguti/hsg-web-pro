@@ -3,6 +3,7 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "../components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import { Analytics } from "@vercel/analytics/next";
 
 // Configuramos las fuentes para que la web se vea moderna
 const geistSans = Geist({
@@ -33,6 +34,7 @@ export default function RootLayout({ children }) {
         </main>
       <Footer />
       <WhatsAppButton />
+      <Analytics />
       </body>
     </html>
   );
